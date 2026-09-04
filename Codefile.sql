@@ -70,6 +70,5 @@ ORDER BY TotalItemsOnHandLT3 DESC;
 
 -- The database looks at the raw PRODUCT table and evaluates WHERE QuantityOnHand < 3. It immediately discards any row where a product has 3 or more items on hand. Grouping has not happened yet.-- 
 
- 
 
- 
+
